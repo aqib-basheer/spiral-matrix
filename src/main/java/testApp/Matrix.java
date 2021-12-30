@@ -1,4 +1,4 @@
-package testApp;//public class Matrix {
+package testApp;
 class spiral{
     public static void main(String[] args) {
         int m = 3;
